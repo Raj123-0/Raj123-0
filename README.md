@@ -7,11 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Raj123-0" alt="Contribution Calendar" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raj123-0/Raj123-0/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img width="100%" src="https://raw.githubusercontent.com/Raj123-0/Raj123-0/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
