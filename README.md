@@ -7,13 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Raj123-0?tab=followers">
-    <img src="https://img.shields.io/github/followers/Raj123-0?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Raj123-0&label=Profile+Visitors&color=58a6ff&style=flat-square" alt="Profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/created-at/Raj123-0?label=On%20GitHub%20since&color=blue&style=flat-square" alt="GitHub since" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj123-0&theme=react-dark&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=1F6FEB" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/Raj123-0" alt="Raj123-0's GitHub Contribution Chart" />
 </p>
 
 ---
@@ -118,20 +116,6 @@ I'm a developer and researcher based in **India** with a deep interest in the in
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Raj123-0&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Raj123-0&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Raj123-0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -147,11 +131,3 @@ I'm a developer and researcher based in **India** with a deep interest in the in
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
-</p>
-
-<p align="center"><em>"The important thing is not to stop questioning." — A. Einstein</em></p>
