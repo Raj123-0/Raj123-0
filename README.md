@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj123-0&theme=react-dark&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=1F6FEB" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/Raj123-0" alt="Contribution Calendar" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/Raj123-0" alt="Raj123-0's GitHub Contribution Chart" />
+  <img src="https://raw.githubusercontent.com/Raj123-0/Raj123-0/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
