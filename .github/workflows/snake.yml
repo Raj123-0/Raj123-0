@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,6 +16,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Raj123-0
+          color_snake: "#39D353"
+          color_dots: "#1F6FEB"
+          color_bg: "#0D1117"
+          color_empty: "#161B22"
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
