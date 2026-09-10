@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=Raj123-0&theme=darkhub&no-frame=false&column=4&margin-w=15&margin-h=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=Raj123-0&theme=darkhub&no-frame=false&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-winning.vercel.app/?username=Raj123-0&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
