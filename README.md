@@ -1,6 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Math+%26+CS+Enthusiast;OEIS+Contributor;Aspiring+Aerospace+Engineer;Algorithms+%7C+Physics+%7C+Crypto" alt="Typing SVG" />
-</h1>
+<a id="top"></a>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raj123-0/Raj123-0/main/assets/banner.svg" alt="Profile Banner" width="100%" />
+</p>
+
+<h3 align="center">
+  <em>"In mathematics you don't understand things. You just get used to them."</em>
+</h3>
+<p align="center">— John von Neumann</p>
 
 <p align="center">
   <em>Where rigorous mathematics meets real-world engineering.</em>
@@ -8,6 +15,10 @@
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Raj123-0/Raj123-0/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Raj123-0&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%" />
 </p>
 
 ---
@@ -126,4 +137,10 @@ I'm a developer and researcher based in **India** with a deep interest in the in
   <a href="https://github.com/Raj123-0">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="#top">⬆ Back to Top</a>
 </p>
