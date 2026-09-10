@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raj123-0/Raj123-0/main/assets/banner.svg" alt="Profile Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Raj123-0/Raj123-0/main/assets/banner.png" alt="Profile Banner" width="100%" />
 </p>
 
 <h3 align="center">
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-winning.vercel.app/?username=Raj123-0&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://gh-trophy.cdnsoft.net/?username=Raj123-0&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
