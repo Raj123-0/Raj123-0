@@ -1,78 +1,106 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" fill="none">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="50%" stop-color="#161B22"/>
+      <stop offset="40%" stop-color="#111B2A"/>
+      <stop offset="70%" stop-color="#0F1B14"/>
       <stop offset="100%" stop-color="#0D1117"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
-      <stop offset="15%" stop-color="#58A6FF"/>
-      <stop offset="50%" stop-color="#39D353"/>
-      <stop offset="85%" stop-color="#58A6FF"/>
-      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#79C0FF"/>
       <stop offset="100%" stop-color="#39D353"/>
     </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="40%" r="50%">
-      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    <linearGradient id="accentBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="10%" stop-color="#58A6FF"/>
+      <stop offset="40%" stop-color="#39D353"/>
+      <stop offset="60%" stop-color="#39D353"/>
+      <stop offset="90%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="20%" cy="30%" r="40%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="glowRight" cx="80%" cy="70%" r="40%">
+      <stop offset="0%" stop-color="#39D353" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#39D353" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <!-- Background -->
-  <rect width="840" height="230" fill="url(#bg)" rx="16"/>
-  <rect width="840" height="230" fill="url(#glow)" rx="16"/>
+  <rect width="900" height="240" fill="url(#bg)" rx="18"/>
+  <rect width="900" height="240" fill="url(#glowLeft)" rx="18"/>
+  <rect width="900" height="240" fill="url(#glowRight)" rx="18"/>
 
-  <!-- Subtle grid -->
-  <g opacity="0.035" stroke="#58A6FF" stroke-width="1">
-    <line x1="0" y1="57" x2="840" y2="57"/>
-    <line x1="0" y1="115" x2="840" y2="115"/>
-    <line x1="0" y1="172" x2="840" y2="172"/>
-    <line x1="210" y1="0" x2="210" y2="230"/>
-    <line x1="420" y1="0" x2="420" y2="230"/>
-    <line x1="630" y1="0" x2="630" y2="230"/>
+  <!-- Decorative grid lines -->
+  <g opacity="0.04" stroke="#58A6FF" stroke-width="1">
+    <line x1="0" y1="60" x2="900" y2="60"/>
+    <line x1="0" y1="120" x2="900" y2="120"/>
+    <line x1="0" y1="180" x2="900" y2="180"/>
+    <line x1="225" y1="0" x2="225" y2="240"/>
+    <line x1="450" y1="0" x2="450" y2="240"/>
+    <line x1="675" y1="0" x2="675" y2="240"/>
   </g>
+
+  <!-- Orbit path -->
+  <ellipse cx="450" cy="120" rx="380" ry="80" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.06" stroke-dasharray="4,8"/>
+  <ellipse cx="450" cy="120" rx="300" ry="55" fill="none" stroke="#39D353" stroke-width="1" opacity="0.05" stroke-dasharray="4,8"/>
 
   <!-- Floating math symbols -->
-  <text x="55" y="48" font-size="30" fill="#58A6FF" opacity="0.13" font-family="Georgia, serif">&#8721;</text>
-  <text x="760" y="52" font-size="34" fill="#39D353" opacity="0.13" font-family="Georgia, serif">&#8747;</text>
-  <text x="90" y="195" font-size="28" fill="#58A6FF" opacity="0.10" font-family="Georgia, serif">&#960;</text>
-  <text x="720" y="200" font-size="32" fill="#39D353" opacity="0.10" font-family="Georgia, serif">&#8734;</text>
-  <text x="390" y="36" font-size="24" fill="#58A6FF" opacity="0.08" font-family="Georgia, serif">&#8711;</text>
-  <text x="170" y="205" font-size="22" fill="#39D353" opacity="0.08" font-family="Georgia, serif">&#8706;</text>
-  <text x="640" y="42" font-size="26" fill="#58A6FF" opacity="0.08" font-family="Georgia, serif">&#952;</text>
-  <text x="510" y="200" font-size="22" fill="#58A6FF" opacity="0.08" font-family="Georgia, serif">&#955;</text>
-  <text x="280" y="40" font-size="20" fill="#39D353" opacity="0.07" font-family="Georgia, serif">&#937;</text>
-  <text x="580" y="200" font-size="20" fill="#39D353" opacity="0.07" font-family="Georgia, serif">&#966;</text>
+  <text x="45" y="42" font-size="32" fill="#58A6FF" opacity="0.15" font-family="Georgia, serif" font-style="italic">&#8721;</text>
+  <text x="810" y="45" font-size="36" fill="#39D353" opacity="0.15" font-family="Georgia, serif" font-style="italic">&#8747;</text>
+  <text x="75" y="205" font-size="30" fill="#58A6FF" opacity="0.12" font-family="Georgia, serif" font-style="italic">&#960;</text>
+  <text x="790" y="210" font-size="34" fill="#39D353" opacity="0.12" font-family="Georgia, serif" font-style="italic">&#8734;</text>
+  <text x="360" y="28" font-size="24" fill="#58A6FF" opacity="0.10" font-family="Georgia, serif">&#8711;</text>
+  <text x="160" y="218" font-size="22" fill="#39D353" opacity="0.10" font-family="Georgia, serif" font-style="italic">&#8706;</text>
+  <text x="680" y="32" font-size="26" fill="#58A6FF" opacity="0.10" font-family="Georgia, serif" font-style="italic">&#952;</text>
+  <text x="520" y="215" font-size="22" fill="#58A6FF" opacity="0.09" font-family="Georgia, serif">&#955;</text>
+  <text x="250" y="30" font-size="20" fill="#39D353" opacity="0.08" font-family="Georgia, serif">&#937;</text>
+  <text x="600" y="220" font-size="20" fill="#39D353" opacity="0.08" font-family="Georgia, serif" font-style="italic">&#966;</text>
+  <text x="430" y="220" font-size="18" fill="#58A6FF" opacity="0.07" font-family="Georgia, serif">&#8463;</text>
 
-  <!-- Rocket silhouette -->
-  <g transform="translate(402, 42) scale(0.55)" opacity="0.12">
-    <path d="M30 0 C42 14 48 34 48 54 L48 72 L34 64 L24 78 L14 64 L0 72 L0 54 C0 34 6 14 30 0 Z" fill="#58A6FF"/>
-    <circle cx="24" cy="30" r="6" fill="#0D1117"/>
-    <path d="M14 64 L4 80 L14 72 Z" fill="#39D353"/>
-    <path d="M34 64 L44 80 L34 72 Z" fill="#39D353"/>
+  <!-- Rocket icon -->
+  <g transform="translate(428, 38) scale(0.5)" opacity="0.15">
+    <path d="M30 0 C44 16 50 38 50 60 L50 78 L36 70 L30 82 L24 70 L10 78 L10 60 C10 38 16 16 30 0 Z" fill="#58A6FF" filter="url(#glow)"/>
+    <circle cx="30" cy="34" r="7" fill="#0D1117"/>
+    <path d="M24 70 L14 86 L24 78 Z" fill="#39D353"/>
+    <path d="M36 70 L46 86 L36 78 Z" fill="#39D353"/>
   </g>
 
-  <!-- Accent line -->
-  <rect x="70" y="82" width="700" height="2" fill="url(#accent)" rx="1"/>
+  <!-- Top accent bar -->
+  <rect x="50" y="72" width="800" height="2.5" fill="url(#accentBar)" rx="1.25"/>
 
   <!-- Name -->
-  <text x="420" y="140" font-size="44" font-weight="700" fill="#FFFFFF"
-        text-anchor="middle" font-family="'Fira Code', 'JetBrains Mono', 'Courier New', monospace" letter-spacing="3">
-    Raj123-0
+  <text x="450" y="135" font-size="40" font-weight="700" fill="url(#nameGrad)"
+        text-anchor="middle" font-family="'Fira Code', 'JetBrains Mono', 'Courier New', monospace" letter-spacing="2">
+    Rajveer Pardeshi
   </text>
 
   <!-- Subtitle -->
-  <text x="420" y="175" font-size="15" fill="url(#nameGrad)"
-        text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" letter-spacing="4" opacity="0.9">
-    MATH  &#183;  CS  &#183;  PHYSICS  &#183;  CRYPTO
+  <text x="450" y="168" font-size="14" fill="#8B949E"
+        text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" letter-spacing="6" opacity="0.85">
+    MATH  &#8226;  CS  &#8226;  PHYSICS  &#8226;  CRYPTO
+  </text>
+
+  <!-- GitHub handle -->
+  <text x="450" y="195" font-size="13" fill="#58A6FF"
+        text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" opacity="0.55" letter-spacing="1">
+    @Raj123-0
   </text>
 
   <!-- Bottom accent dots -->
-  <circle cx="390" cy="200" r="2.5" fill="#58A6FF" opacity="0.45"/>
-  <circle cx="420" cy="200" r="2.5" fill="#39D353" opacity="0.45"/>
-  <circle cx="450" cy="200" r="2.5" fill="#58A6FF" opacity="0.45"/>
+  <circle cx="405" cy="215" r="2.5" fill="#58A6FF" opacity="0.4"/>
+  <circle cx="425" cy="215" r="2.5" fill="#39D353" opacity="0.4"/>
+  <circle cx="445" cy="215" r="2.5" fill="#58A6FF" opacity="0.4"/>
+  <circle cx="465" cy="215" r="2.5" fill="#39D353" opacity="0.4"/>
+  <circle cx="485" cy="215" r="2.5" fill="#58A6FF" opacity="0.4"/>
 </svg>
