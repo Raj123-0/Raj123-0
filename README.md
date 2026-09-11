@@ -1,4 +1,4 @@
-<h1 align="center">Raj</h1>
+<h1 align="center">Rajveer Pardeshi</h1>
 
 <h3 align="center">
 Numerical rigor · Scientific simulation · Applied security
@@ -8,10 +8,6 @@ Numerical rigor · Scientific simulation · Applied security
   I build software where correctness matters — formal safety layers, high-precision
   numerics, physics engines, and cryptography. Mostly Python, with Rust and
   TypeScript where they earn their place.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raj123-0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -55,13 +51,19 @@ Cryptographic tooling, steganography, verifiable credentials, lossless compressi
 <h3 align="center">certified-dose</h3>
 
 <p align="center">
-  <a href="https://github.com/Raj123-0/certified-dose">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raj123-0&repo=certified-dose&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://img.shields.io/badge/python-100%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/github/license/Raj123-0/certified-dose?style=flat-square&color=green" />
+  <img src="https://img.shields.io/github/stars/Raj123-0/certified-dose?style=flat-square&color=yellow&label=stars" />
 </p>
 
 <p align="center">
 Formal reachability-analysis safety layer for process-control chemical dosing. Interval arithmetic and control theory applied to water treatment.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Raj123-0/certified-dose">
+    <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </td>
@@ -70,13 +72,19 @@ Formal reachability-analysis safety layer for process-control chemical dosing. I
 <h3 align="center">tether-codec</h3>
 
 <p align="center">
-  <a href="https://github.com/Raj123-0/tether-codec">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raj123-0&repo=tether-codec&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://img.shields.io/badge/rust-100%25-DEA584?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/github/license/Raj123-0/tether-codec?style=flat-square&color=green" />
+  <img src="https://img.shields.io/github/stars/Raj123-0/tether-codec?style=flat-square&color=yellow&label=stars" />
 </p>
 
 <p align="center">
 Low-memory, high-speed lossless compression for streaming numeric and sensor data. Written in Rust.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Raj123-0/tether-codec">
+    <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </td>
@@ -87,13 +95,19 @@ Low-memory, high-speed lossless compression for streaming numeric and sensor dat
 <h3 align="center">Tokamak-Py</h3>
 
 <p align="center">
-  <a href="https://github.com/Raj123-0/Tokamak-Py">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raj123-0&repo=Tokamak-Py&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://img.shields.io/badge/python-100%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/github/license/Raj123-0/Tokamak-Py?style=flat-square&color=green" />
+  <img src="https://img.shields.io/github/stars/Raj123-0/Tokamak-Py?style=flat-square&color=yellow&label=stars" />
 </p>
 
 <p align="center">
 N-body computational physics engine for electrostatic plasma confinement — built for mathematical rigor and real-time visualization, not brute-force O(n²).
+</p>
+
+<p align="center">
+  <a href="https://github.com/Raj123-0/Tokamak-Py">
+    <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </td>
@@ -102,13 +116,19 @@ N-body computational physics engine for electrostatic plasma confinement — bui
 <h3 align="center">umbra</h3>
 
 <p align="center">
-  <a href="https://github.com/Raj123-0/umbra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raj123-0&repo=umbra&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://img.shields.io/badge/python-100%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/github/license/Raj123-0/umbra?style=flat-square&color=green" />
+  <img src="https://img.shields.io/github/stars/Raj123-0/umbra?style=flat-square&color=yellow&label=stars" />
 </p>
 
 <p align="center">
 Diagnose and honestly handle not-missing-at-random (MNAR) data. Scikit-learn compatible API.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Raj123-0/umbra">
+    <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </td>
@@ -120,18 +140,18 @@ Diagnose and honestly handle not-missing-at-random (MNAR) data. Scikit-learn com
 
 <br>
 
-| Project | What it does |
-|---|---|
-| [**eulerian-fluid-solver**](https://github.com/Raj123-0/eulerian-fluid-solver) | Real-time 2D incompressible Navier–Stokes on a grid, via Jos Stam's Stable Fluids |
-| [**fransen-robinson-record**](https://github.com/Raj123-0/fransen-robinson-record) | Verified computation of OEIS A058655 to 1,500 significant digits |
-| [**ellipse-perimeter-research**](https://github.com/Raj123-0/ellipse-perimeter-research) | Adaptive AGM approximations for the ellipse perimeter, with error bounds |
-| [**docutrust**](https://github.com/Raj123-0/docutrust) | Verifiable digital credentials with cryptographic ledger anchoring |
-| [**AegisCrypt**](https://github.com/Raj123-0/AegisCrypt) | Keeps secrets out of source code using modern cryptographic primitives |
-| [**StegoCrypt-Desktop**](https://github.com/Raj123-0/StegoCrypt-Desktop) | AES-128 (Fernet) combined with LSB image steganography |
-| [**RationalLLL**](https://github.com/Raj123-0/RationalLLL) | Lattice basis reduction in exact rational arithmetic |
-| [**avalanche-graph-dynamics**](https://github.com/Raj123-0/avalanche-graph-dynamics) | Non-Abelian state changes and history-dependent propagation in dynamic graphs |
-| [**havn**](https://github.com/Raj123-0/havn) | Local-first, privacy-preserving personal data platform for cross-service correlations |
-| [**terrain-erosion-engine**](https://github.com/Raj123-0/terrain-erosion-engine) | Procedural terrain generation via hydraulic erosion (TypeScript) |
+| Project | Stack | What it does |
+|---|---|---|
+| [**eulerian-fluid-solver**](https://github.com/Raj123-0/eulerian-fluid-solver) | Python | Real-time 2D incompressible Navier–Stokes on a grid, via Jos Stam's Stable Fluids |
+| [**fransen-robinson-record**](https://github.com/Raj123-0/fransen-robinson-record) | Python | Verified computation of OEIS A058655 to 1,500 significant digits |
+| [**ellipse-perimeter-research**](https://github.com/Raj123-0/ellipse-perimeter-research) | Python | Adaptive AGM approximations for the ellipse perimeter, with error bounds |
+| [**docutrust**](https://github.com/Raj123-0/docutrust) | JavaScript | Verifiable digital credentials with cryptographic ledger anchoring |
+| [**AegisCrypt**](https://github.com/Raj123-0/AegisCrypt) | Python | Keeps secrets out of source code using modern cryptographic primitives |
+| [**StegoCrypt-Desktop**](https://github.com/Raj123-0/StegoCrypt-Desktop) | Python | AES-128 (Fernet) combined with LSB image steganography |
+| [**RationalLLL**](https://github.com/Raj123-0/RationalLLL) | Python | Lattice basis reduction in exact rational arithmetic |
+| [**avalanche-graph-dynamics**](https://github.com/Raj123-0/avalanche-graph-dynamics) | Python | Non-Abelian state changes and history-dependent propagation in dynamic graphs |
+| [**havn**](https://github.com/Raj123-0/havn) | Python | Local-first, privacy-preserving personal data platform for cross-service correlations |
+| [**terrain-erosion-engine**](https://github.com/Raj123-0/terrain-erosion-engine) | TypeScript | Procedural terrain generation via hydraulic erosion |
 
 </details>
 
@@ -182,15 +202,10 @@ A long-running body of work computing mathematical constants to high precision, 
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raj123-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj123-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Raj123-0" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj123-0&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Raj123-0/Raj123-0/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ---
@@ -198,14 +213,11 @@ A long-running body of work computing mathematical constants to high precision, 
 ### 📫 Get in touch
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:rajveer28dec@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE">
+  <a href="https://linkedin.com/in/rajveer-pardeshi-6bb944401/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
